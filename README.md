@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 -->
 
 # 💫 About Me:
-MSc in CS (Specialization in AI) | Data scientist | Python | Machine Learning | Deep Learning
+MSc in CS (Specialization in AI) | Data Science & Analytics | Python | Machine Learning | Deep Learning
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sadmansakib7/) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/8665445) [![LeetCode](https://img.shields.io/badge/LeetCode-12100E?logo=leetcode)](https://leetcode.com/Sadman_Sakib/) [![LeetCode](https://img.shields.io/badge/HackerRank-232B90D9?logo=hackerrank&color=grey&labelColor=grey)](https://www.hackerrank.com/profile/SadmanSakib_AUST)
